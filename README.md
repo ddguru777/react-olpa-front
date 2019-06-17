@@ -1,11 +1,3 @@
-Deprecated see https://github.com/Opla/opla
-
-# opla-front
-
-[![CircleCI](https://circleci.com/gh/Opla/front.svg?style=svg)](https://circleci.com/gh/Opla/front)
-
-Opla.ai Frontend using Node es7 react and redux.
-
 
 ## Getting started
 
